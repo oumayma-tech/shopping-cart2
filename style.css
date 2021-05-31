@@ -44,7 +44,7 @@ i {
   
   .card {
     margin: 2%;
-    background-color: white;
+    background-color: rgb(253, 165, 165);
     border-radius: 10px;
     padding: 2%;
   }
